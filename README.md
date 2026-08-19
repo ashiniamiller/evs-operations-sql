@@ -20,6 +20,14 @@ The analysis focuses on:
 8. Which employees have the most assigned hours?
 9. Which service types generate more than $20,000 in revenue?
 10. Which employees have the highest overall workload?
+11. 
+## Key Findings
+
+- Post-Construction generated the highest average revenue per job.
+- Food Service Cleaning had the highest job volume.
+- Service types varied significantly in revenue potential and workload.
+- Employee workload analysis identified differences in assigned jobs and hours.
+- Client-level analysis highlighted the accounts contributing the most revenue.
 
 ## Tools & Technologies
 
